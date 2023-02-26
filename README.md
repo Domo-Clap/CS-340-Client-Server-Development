@@ -2,7 +2,7 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+#How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
 
 There are quite a few ways one can go when trying to write code/applications that are maintainable, readable, and adaptable. In terms of making code adaptable, I like to think about what my code needs to do, and how I can make it so this process will work for any input/scenario. This method really helps to make code adaptable. When you make code with the input type in mind, you are actively thinking on how you can make the program adapt to different kinds of input. For example, including input checks/validation in your code can make it much easier for your application to adapt to different types of input. Also, making sure to have variables in your code that can be used no matter what is stored inside is a part of the key to making code adaptable. 
 
@@ -16,7 +16,7 @@ In the future, I could see myself possibly using some of the logic from my CRUD 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+#How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
 
 When I am approaching a problem, I try to take my time with said problem. First, I review the problem over and over in my head until I determine what I need to accomplish or submit. Then, I try and break down the creation/development of the solution so that it can be accomplished in steps. From there, I begin to work on the solution step-by-step, constantly testing the solution until I have an adequate result. I make sure to do my research on the problem and solution prior to, and while working on the project. If I ever encounter a problem where my solution is not working, and I cannot figure it out even though I reasearched a ton, I know I need to take a break. Taking a small break whenever you are frustrated or stumped on a problem is very useful because it helps you to clear your mind. Having a clear mind makes it much easier when approaching a problem.
 
@@ -26,7 +26,7 @@ As for the future, I plan to continue using this process for pretty much any sof
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+#What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
 
 Computer scientists can do quite a lot with their skillsets. Some computer scientists focus on creating algorithms that work better for sorting or searching. Some computer scientists write code that connects users to interfaces and databases. Some computer scientists write code to manage networks of users and computers. Some computer scientists even write code that connects electracal equipment to an interface for users to use. These are just some very vague concepts of what a computer scientist can do, but it gets the point across. With the evolution of technology and how it has become more commonplace in daily life, computer science is rapidly expanding. There is a need for people who understand computer science because the demand for technological innovation has risen significantly. This increase in the demand for technological innovation has led the importance of computer science to grow, and for good reason. All in all, what computer scientists do is important because of how much our world nowadays depends on technology and software. 
 
